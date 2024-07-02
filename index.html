@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Weather App</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="card">
+        <div class="search">
+            <input type="text" placeholder="Enter city name" spellcheck="false">
+            <button><img src="./assets/search.png" alt=""></button>
+        </div>
+        <div class="city-error">
+            <p>City Name Not Found</p>
+        </div>
+        <div class="weather">
+            <img src="./assets/clouds.png" alt="" class="weather-icon">
+            <div class="temp">
+                27<sup> °C</sup>
+            </div>
+            <div class="city">New York</div>
+            <div class="description">
+                <div class="humadity-detail">
+                        <img src="./assets/humidity.png" alt="" class="humadity-icon">
+                        <div class="detail">
+                            <p class="humadity">30%</p>
+                            <p>Humidity</p>
+                        </div>
+                </div>
+                <div class="wind-detail">
+                        <img src="./assets/wind.png" alt="" class="wind-icon">
+                        <div class="detail">
+                            <p class="wind">5.66 km/h</p>
+                            <p>Wind Speed</p>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
