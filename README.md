@@ -1,0 +1,8 @@
+# Real-Weather
+THIS REAL WEATHER APP DEVELOPED BY SAHIL SHEKH USING HTML CSS AD JVASCRIPT NO METTER WHERE YOU ARE JUST ENTER YOU CITY NAME AND SEE WETHER. THIS APP HELP YOU TO KNOW WEATHER WHICH YOU WANT.
+
+example :- 
+
+i search my city name
+
+!['image load'](https://github.com/sahilshekh541/Real-Weather/blob/main/Screenshot%202024-07-02%20162207.png)
